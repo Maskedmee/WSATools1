@@ -71,3 +71,4 @@ My amazing friends ❤️ Thanks for always being at my side
 Inside Windows, the most technical and fantastic Windows-related community chat on telegram. This is where the magic happens. [Join us!](https://t.me/insidewindows) Note: Please don't discuss WSATools bugs there. Report them here!
 
 Disclaimer: WSATools is not a product made by Microsoft, and it's in no way related to them. It's not related to Google/Alphabet or Amazon either.
+werttyy
